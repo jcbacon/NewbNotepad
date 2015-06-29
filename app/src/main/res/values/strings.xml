@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewbNotepad</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_poop">Poop</string>
+    <string name="title_activity_splashh_screen">SplashhScreen</string>
+    <string name="title_activity_new_note">NewNoteActivity</string>
+    <string name="actionEditIcon">ActionIcon</string>
+</resources>
